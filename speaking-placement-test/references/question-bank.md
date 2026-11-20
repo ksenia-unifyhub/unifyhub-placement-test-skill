@@ -13,7 +13,7 @@ Each question has a main question, a follow-up, a push (the harder follow-up tha
 | B2 | Justifying a choice or an opinion, hypotheses ("if you could change…"), explaining something to a non-expert. Contrast, conditionals, hedging, clear structure. |
 | C1 | Trade-offs, speculation about the future, an abstract or sensitive topic (for example, an incident review for senior managers). Nuance, concession, register. |
 
-The order of the slots inside a level does not matter. A role may replace one slot per level with a task of the same difficulty that the company asked for, as Engineering does (a status update at B1, an incident review at C1).
+The order of the slots inside a level does not matter. A role may replace at most one slot per level with a task the company asked for, as Engineering does with a status update at B1 (see SKILL.md, "Plan a test"). Its C1 incident review is not a replacement: it is the C1 sensitive topic.
 
 To write a role-specific set, keep this map and take the topics from the person's real work: their tools, meetings, clients and problems. Three examples follow: general, business and one role (engineering).
 
