@@ -1,0 +1,65 @@
+{
+  "firstName": "Marta",
+  "questionSet": "QA & Testing (role-specific)",
+  "level": "B1+",
+  "ladderNote": "Ceiling found at B2",
+  "tasks": [
+    {
+      "level": "A2",
+      "task": "Work and routine",
+      "rating": "confident",
+      "quoteThis": false
+    },
+    {
+      "level": "A2",
+      "task": "Past events: what did you test last week",
+      "rating": "confident",
+      "quoteThis": false
+    },
+    {
+      "level": "B1",
+      "task": "Reporting a defect",
+      "rating": "confident",
+      "quoteThis": true
+    },
+    {
+      "level": "B1",
+      "task": "Change over time",
+      "rating": "confident",
+      "quoteThis": true
+    },
+    {
+      "level": "B2",
+      "task": "Making a case",
+      "rating": "struggled",
+      "quoteThis": true
+    },
+    {
+      "level": "B2",
+      "task": "Hypothesis",
+      "rating": "managed",
+      "quoteThis": false
+    },
+    {
+      "level": "B2",
+      "task": "Explaining to a non-expert",
+      "rating": "struggled",
+      "quoteThis": true
+    }
+  ],
+  "pronunciationMark": "4",
+  "fluencyMark": "3",
+  "notes": "Clear pronunciation, some stress problems in 'regression'. Fluent on familiar QA topics, stops and searches for words when asked to persuade or explain to non-experts. Third person -s missing often.",
+  "programmes": [
+    {
+      "name": "English for QA Engineers",
+      "forLevels": "B1 to B2",
+      "about": "22-hour sprint: defect reports, release meetings, explaining risk to non-technical people, client demos."
+    },
+    {
+      "name": "Business English Foundations",
+      "forLevels": "A2 to B1",
+      "about": "Everyday meetings, emails and calls."
+    }
+  ]
+}

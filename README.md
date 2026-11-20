@@ -1,6 +1,6 @@
 # Speaking placement test: a Claude skill
 
-A Claude skill for testing employees' spoken English as a conversation with a teacher, not a questionnaire.
+A Claude skill that helps you assess the English level of a candidate or a team member in a conversation with a teacher.
 
 At [UnifyHub](https://unifyhub.ee) we dropped written placement tests and an AI chatbot test. What's left is a 25-minute conversation with a teacher. Claude does the work around it:
 
@@ -16,7 +16,8 @@ speaking-placement-test/
   references/question-bank.md  skill map + starter questions (general, business, engineering)
   references/cefr-guide.md     CEFR summaries in our own words, levels at work, teacher's marks
   references/report-format.md  the report structure
-  scripts/check_quotes.py      checks every quote against the transcript
+  scripts/check_quotes.py      checks every quote: the person's own words, from one answer, never the teacher's
+  examples/                    an invented interview, the teacher's facts and the finished draft report
 ```
 
 ## Install

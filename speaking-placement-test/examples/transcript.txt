@@ -1,0 +1,22 @@
+Teacher: Hi Marta, thanks for joining. So, there are no right or wrong answers, we just talk. Is it okay that we record the call?
+Student: Yes, yes, it's okay.
+Teacher: Great. What do you do in your job? Describe a normal working day.
+Student: I am QA engineer in, um, in a fintech company. Normally I start at nine, I check the night runs of autotests and, uh, I look what is failed. Then we have daily, it's fifteen minutes.
+Teacher: Which task takes most of your time, and why?
+Student: Regression testing, because before every release we must check all the payment flows and it's, it's a lot of cases.
+Teacher: What did you test last week?
+Student: Last week I tested the new refund feature. I found three bugs, one was quite serious, the refund was going two times.
+Teacher: Tell me about a bug you found recently. How did you find it and how did you report it?
+Student: So, um, this refund bug. I was doing the exploratory testing and I noticed that when the user clicks twice fast, the system create two refunds. I reproduced it, I wrote the steps, I attached the logs and the video, and I put it in Jira with high priority. The developer fixed it in the same day.
+Teacher: How has testing in your team changed since you joined?
+Student: When I joined, two years ago, we had almost everything manual. Now we have, uh, maybe seventy percent automated, so I spend more time on exploratory testing and less on, on boring checks. I think it's better, because we find more interesting bugs.
+Teacher: Developers say a bug is minor, and you think it is serious. How do you make your case?
+Student: Hmm. I will, um, I would show them the... how to say... the impact for the user. Like, if the user lose money, it's not minor. But sometimes they, they don't agree and, uh, I don't know, the product owner decide.
+Teacher: What evidence would you bring?
+Student: The logs, and maybe how many users it can... affect. I am not sure how to explain it better.
+Teacher: If you could change one thing about how your team tests, what would it be and why?
+Student: I would like that developers write more unit tests, because now many bugs we find late, and it cost more time. But they say they don't have time, so, um, it's difficult.
+Teacher: Explain to a new product manager why testing takes the time it takes.
+Student: Uh, testing is... we have many, many combinations, different cards, different countries, and every combination can have a bug. So, um, I cannot explain in short, sorry. It is long because it is many cases.
+Teacher: That's fine. Last part: what do you need English for at work, and what do you expect from the course?
+Student: We have now clients from UK, and I need to join the demos and answer questions. I want to speak more confident, without stopping so much.

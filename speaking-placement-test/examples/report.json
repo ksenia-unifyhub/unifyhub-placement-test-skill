@@ -1,0 +1,180 @@
+{
+  "level": "B1+",
+  "levelName": "Independent user, upper band of B1",
+  "studyLevel": "B2",
+  "summary": "You talk about your QA work with ease. You describe your day, report a bug step by step and explain how your team has changed. When you need to persuade developers or explain testing to someone outside QA, you stop and search for words, and this is the main step to B2.",
+  "highlights": [
+    {
+      "label": "Your strongest area",
+      "value": "Coherence",
+      "note": "You tell a work story in a clear order, one step after another."
+    },
+    {
+      "label": "Your main focus",
+      "value": "Explaining impact",
+      "note": "Saying why a bug matters, to developers and to people outside QA."
+    },
+    {
+      "label": "Study next at",
+      "value": "B2",
+      "note": "You are clearly above B1, so the next step is the language of B2: giving reasons, weighing options and holding your view."
+    }
+  ],
+  "atWork": {
+    "now": [
+      "Describing your normal working day and your tasks",
+      "Reporting a defect with the steps, logs and priority",
+      "Telling what you tested and what you found",
+      "Explaining how your team's testing has changed"
+    ],
+    "effort": [
+      "Making a case when developers say a bug is minor",
+      "Explaining to a non-technical person why testing takes time",
+      "Answering questions without preparing first"
+    ],
+    "next": [
+      "Holding your view in a meeting when people disagree",
+      "Weighing the risks of a release and recommending what to do",
+      "Explaining a technical problem to a client in short, clear steps",
+      "Answering follow-up questions in a client demo"
+    ],
+    "note": "This list comes from your interview, not from a real meeting, so use it as a guide."
+  },
+  "criteria": [
+    {
+      "name": "Range",
+      "gloss": "The words and phrases you can use",
+      "level": "B1+",
+      "observed": "You have the words for your own work: regression, exploratory testing, logs, priority, release. When the topic moves away from QA steps, you look for words, for example \"how to say\". For B2 you need phrases to explain impact and risk."
+    },
+    {
+      "name": "Accuracy",
+      "gloss": "Your control of grammar",
+      "level": "B1",
+      "observed": "Your meaning is always clear, and your past forms are right. The -s for he, she and it is often missing: \"the system create\", \"the user lose\". For B2 this needs to become automatic."
+    },
+    {
+      "name": "Fluency",
+      "gloss": "How easily you keep talking",
+      "level": "B1+",
+      "observed": "On familiar QA topics you keep going without help. When you need to persuade or explain, you pause often to find words. For B2 you need a more even pace in these longer answers."
+    },
+    {
+      "name": "Interaction",
+      "gloss": "How you take part in a conversation",
+      "level": "B1",
+      "observed": "You answer every question directly and add useful detail. When the developers disagree in your example, the decision goes to the product owner. For B2 you need to keep your point and answer the other side."
+    },
+    {
+      "name": "Coherence",
+      "gloss": "How you connect your ideas",
+      "level": "B1+",
+      "observed": "Your bug story has a clear order, step by step. You link ideas with \"because\" and \"so\". For B2 you need more ways to connect a point with its reason and its result."
+    },
+    {
+      "name": "Pronunciation",
+      "gloss": "How clear your speech is",
+      "level": "B1+",
+      "observed": "Your speech is clear and easy to follow. The stress in some longer words, for example \"regression\", is not in the usual place. For B2 the stress in your key work words needs to be natural."
+    }
+  ],
+  "evidence": [
+    {
+      "criterion": "Coherence",
+      "title": "A bug report in clear steps",
+      "quote": "[[I reproduced it, I wrote the steps, I attached the logs and the video]], and I put it in Jira with high priority.",
+      "note": "Each step follows the one before. A developer or a manager can follow it the first time."
+    },
+    {
+      "criterion": "Range",
+      "title": "Change over time, with numbers",
+      "quote": "[[When I joined]], two years ago, we had almost everything manual. [[Now]] we have, uh, maybe seventy percent automated",
+      "note": "You compare then and now and give a number. This makes the change easy to see."
+    },
+    {
+      "criterion": "Interaction",
+      "title": "An opinion with a reason",
+      "quote": "I think it's better, [[because]] we find more interesting bugs.",
+      "note": "You say what you think and why, in one sentence."
+    }
+  ],
+  "ceiling": {
+    "text": "Your A2 and B1 answers were confident. At B2 the interview got harder. When you had to make a case to developers and explain testing to a new product manager, you stopped and searched for words. Your answer about changing one thing in your team went better: you gave a clear reason.",
+    "quote": "So, um, [[I cannot explain in short]], sorry.",
+    "rungs": [
+      {
+        "level": "C1",
+        "state": "not_reached",
+        "note": "Not asked in this interview"
+      },
+      {
+        "level": "B2",
+        "state": "partly",
+        "note": "Persuading and explaining to a non-expert did not hold yet"
+      },
+      {
+        "level": "B1",
+        "state": "confident",
+        "note": "A bug story and change over time"
+      },
+      {
+        "level": "A2",
+        "state": "confident",
+        "note": "Your working day and last week"
+      }
+    ]
+  },
+  "priorities": [
+    {
+      "criterion": "Interaction",
+      "title": "Make your case about a bug",
+      "said": "Like, if the user lose money, it's not minor. But sometimes they, they don't agree and, uh, [[I don't know, the product owner decide]].",
+      "target": "If [[a user loses]] money, [[it can't be]] minor. [[I understand your point, but]] the impact for the user [[is serious]].",
+      "why": "At B2 you keep your view when people disagree, and you give the reason again in a new way."
+    },
+    {
+      "criterion": "Coherence",
+      "title": "Explain testing to someone outside QA",
+      "said": "It is long because [[it is many cases]].",
+      "target": "It [[takes]] long because [[there are]] many cases: [[different cards and different countries make many combinations, and]] every combination can have a bug.",
+      "why": "Product managers and clients need the reason in one or two clear sentences, with an example."
+    },
+    {
+      "criterion": "Accuracy",
+      "title": "Add -s after he, she, it and the system",
+      "said": "when the user clicks twice fast, the system [[create]] two refunds",
+      "target": "when the user clicks twice fast, the system [[creates]] two refunds",
+      "why": "You already say \"clicks\". The same -s on every verb after one person or one thing makes your reports sound more exact."
+    }
+  ],
+  "phrases": [
+    {
+      "group": "Make your case",
+      "items": [
+        "The impact for the user is …",
+        "I understand your point, but …"
+      ]
+    },
+    {
+      "group": "Explain to someone outside QA",
+      "items": [
+        "In short, …",
+        "Let me give you an example: …"
+      ]
+    },
+    {
+      "group": "One person or one thing: add -s",
+      "items": [
+        "When a user …s, the system …s",
+        "The product owner decides …"
+      ]
+    }
+  ],
+  "recommendation": {
+    "programme": "English for QA Engineers",
+    "levels": "For B1 to B2",
+    "reason": "You now join demos with UK clients and answer their questions. This course works on defect reports, release meetings, explaining risk to non-technical people and client demos.",
+    "practiceTitle": "Something to try before the course",
+    "practice": "Pick one bug from this week. Explain in two minutes, out loud, why it matters, as if to a new product manager. Use one example and the phrase \"In short, …\". Record it and listen for the -s after \"the system\" and \"the user\"."
+  }
+}

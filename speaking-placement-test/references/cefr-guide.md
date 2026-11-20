@@ -6,7 +6,7 @@ Levels follow the Common European Framework of Reference (CEFR), Council of Euro
 
 ## Level names
 
-- A1 to A2+: Basic user
+- A1 to A2+: Basic user (struggling twice at A2 gives A1, never A1+)
 - B1 to B2+: Independent user
 - C1 to C2: Proficient user
 
@@ -46,6 +46,17 @@ From the CEFR scales for meetings, co-operation, information exchange and presen
 - **C1:** argues a position convincingly and answers counter-arguments fluently; gives a clear, well-structured presentation of a complex subject and handles interruptions.
 
 The line between upper B1 and B2: comparing alternatives is upper B1; weighing their advantages and disadvantages and justifying a choice is B2.
+
+## Levels per criterion
+
+Start each criterion at the teacher's overall level. Move it only with evidence:
+
+- up to the "+" band, or one band higher, when the person clearly does what the next level's summary describes in that area;
+- down a band when that area kept them below the overall level.
+
+A criterion may sit one band above or below the overall level; more than that is rare and needs a quote. "+" is allowed per criterion.
+
+Pronunciation and fluency also have the teacher's 1 to 5 marks. As a rough guide: 1 is about A1, 2 about A2, 3 about B1, 4 about B1+ to B2, 5 about B2+ and above. The teacher's notes come first: a 4 with notes about stress problems is nearer B1+ than B2.
 
 ## Teacher's marks during the call (1 to 5)
 
