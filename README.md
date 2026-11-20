@@ -23,7 +23,7 @@ speaking-placement-test/
 
 **Claude Code:** copy the `speaking-placement-test` folder into `~/.claude/skills/` (for you) or `.claude/skills/` in a project (for your team).
 
-**Claude.ai:** zip the `speaking-placement-test` folder and upload it in Settings → Capabilities → Skills.
+**Claude.ai:** zip the `speaking-placement-test` folder and upload it in the Skills section of Claude's settings.
 
 Then ask, for example: "Plan a placement test for a QA engineer whose team runs client demos" or "Draft the report from this transcript and my notes".
 
